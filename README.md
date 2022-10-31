@@ -6,4 +6,4 @@
 - 2019158637 Kevin Sánchez Obando
 
 ### Estado del proyecto: 2, muy avanzado
-### Enlace del video: 
+### Enlace del video: https://www.youtube.com/watch?v=cOfYsKBKYgc
