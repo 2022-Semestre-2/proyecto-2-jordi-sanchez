@@ -1,7 +1,9 @@
-# [NOMBRE DEL PROYECTO]
+# [Gestor de Procesos, iteración 2]
 ## Integrantes:
-### [Carné] [Nombre]
+- 2019269727 Jordi Segura Madrigal
+- 2019167503 Christopher Acosta Gomez
+- 2019203402 Jirgort McCarty Vasquez
+- 2019158637 Kevin Sánchez Obando
 
-### Estado del proyecto: Escala de 1 a 5, 1 siendo completo y 5 deplorable
-### Enlace del video: (Si esto fue solicitado)
-Recordar que el video debe ser público y con sonido para ser visto por el profesor
+### Estado del proyecto: 2, muy avanzado
+### Enlace del video: 
